@@ -306,7 +306,11 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/policies/coc/">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+We are committed to creating a friendly and respectful place for learning, teaching and contributing for all. All participants in the DH & RSE Summer School are expected to adhere to our <a href="https://dhrse2025.er.kcl.ac.uk/wp-content/uploads/2025/03/Terms_and_conditions_summer_school_2025.pdf">Code of Conduct</a>, which is set out as part of our Terms & Conditions. 
+</p>
+
+<p>
+Everyone who participates in Carpentries activities is also required to conform to the <a href="https://docs.carpentries.org/policies/coc/">Code of Conduct</a>. This document also outlines how to report an incident if needed.
 </p>
 
 <p class="text-center">
